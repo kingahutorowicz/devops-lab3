@@ -3,3 +3,4 @@ Imię: Kinga
 Nazwisko: Hutorowicz 
 Ulubiona technologia: KaliLinux 
 Poprawka do tekstu
+Kolejna poprawka
