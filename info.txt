@@ -1,2 +1,2 @@
 Przykładowy tekst, zadanie z devops
-Poprawka do tego tekstu nr 1
+Moja poprawka do tekstu
